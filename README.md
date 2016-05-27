@@ -3,7 +3,7 @@
 ## Sobre o Curso
 
 ![Planejamento do Curso]
-(https://uploaddeimagens.com.br/imagens/conteudo_es2015-png)
+(https://uploaddeimagens.com.br/images/000/629/005/original/Conteudo_ES2015.png?1464360450)
 
 ## Aulas
 
