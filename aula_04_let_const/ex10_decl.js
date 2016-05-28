@@ -1,12 +1,7 @@
 var semProblema = 1;
 var semProblema = 2;
-
-console.log('sem problema', semProblema);
+console.log('semProblema =', semProblema);
 
 var comProblema = 1;
-const comProblema = 2;
-
-console.log('com problema', comProblema);
-
-// var/var... sem problema
-// var/let var/const let/const... problema
+var comProblema = 2;
+console.log('comProblema =', comProblema);

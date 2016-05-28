@@ -1,10 +1,8 @@
 const produto = {
 	nome: 'Caneta',
-	preco: '2.59'
+	preco: 2.59
 };
-
-produto.nome = 'Caneta BIC Preta';
+produto.nome = 'Notebook';
 console.log(produto.nome);
 
-// TypeError: Assignment to constant variable.
 produto = {};
