@@ -7,6 +7,5 @@ function real(strings, ...values) {
    });
    return resultado.join('');
 }
-var preco = 29.99;
-var parcela = 11;
+var preco = 29.99, parcela = 11;
 console.log(real `1x de ${preco} ou 3x de ${parcela}`);
