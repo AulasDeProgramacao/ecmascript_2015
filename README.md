@@ -2,7 +2,7 @@
 
 ## Como executar os execícios
 
-> Todos os exemplos foram executados usando o **NodeJS 6.2.0**
+> Todos os exemplos foram executados usando o [**NodeJS 6.2.0**](https://nodejs.org)
 
 ## Sobre o Curso
 A imagem a seguir mostra o mapa mental do planejamento do curso, mas ainda é possível que outros tópicos entrem durante as gravações das aulas.
