@@ -1,10 +1,11 @@
-# Exercícios do Curso de ECMAScript 2015
+# Curso de ECMAScript 2015
 
 ## Como executar os execícios
 
 > Todos os exemplos foram executados usando o [**NodeJS 6.2.0**](https://nodejs.org)
 
-## Sobre o Curso
+## Planejamento
+
 A imagem a seguir mostra o mapa mental do planejamento do curso, mas ainda é possível que outros tópicos entrem durante as gravações das aulas.
 
 ![Planejamento do Curso]
@@ -19,6 +20,7 @@ As aulas serão liberadas semanalmente e até agora temos as seguintes aulas:
 3. [ECMAScript 2015 (ES6) - Aula 02: Configuração](https://www.youtube.com/watch?v=0xQj4-6uado)
 4. [ECMAScript 2015 (ES6) - Aula 03: Let e Const](https://www.youtube.com/watch?v=noJ2G56b7rs)
 5. [ECMAScript 2015 (ES6) - Aula 04: Let e Const (Parte 2)](https://www.youtube.com/watch?v=ewbkvH3cGaw)
+6. [ECMAScript 2015 (ES6) - Aula 05: Template Strings](https://www.youtube.com/watch?v=zrYbmLsXpRM)
 
 ## Alguns links
 
