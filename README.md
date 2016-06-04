@@ -22,8 +22,8 @@ As aulas serão liberadas semanalmente e até agora temos as seguintes aulas:
 
 ## Alguns links
 
-[Nodejs](https://nodejs.org)
-[Atom](https://atom.io/)
-[Sublime](https://www.sublimetext.com/)
-[Babel (Não é utilizado por padrão)](https://babeljs.io/)
-[Tabela de Compatibilidade ES6](https://kangax.github.io/compat-table/es6/)
+- [Nodejs](https://nodejs.org)
+- [Atom](https://atom.io/)
+- [Sublime](https://www.sublimetext.com/)
+- [Babel (Não é utilizado por padrão)](https://babeljs.io/)
+- [Tabela de Compatibilidade ES6](https://kangax.github.io/compat-table/es6/)
