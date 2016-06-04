@@ -1,10 +1,8 @@
-function tag(strings, ...params) {
+function tag(strings, ...values) {
 	console.log(strings);
-	console.log(params);
-	return "Outro valor";
+	console.log(values);
+	return 'Outro valor';
 }
-
 var aluno = 'Gui';
-var resultado = 'Aprovado';
-var frase = tag `O aluno ${aluno} está ${resultado}`;
-console.log(frase);
+var status = 'Aprovado';
+console.log(tag `${aluno} está ${status}`);
