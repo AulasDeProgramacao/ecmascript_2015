@@ -1,5 +1,6 @@
 function rand({min = 0, max = 1000}) {
-   return Math.floor(Math.random() * (max - min))  + min;
+   var value = Math.random() * (max - min);
+   return Math.floor(value)  + min;
 }
 
 console.log(rand({max:50, min:40}));
