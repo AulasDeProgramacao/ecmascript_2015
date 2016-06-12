@@ -6,6 +6,6 @@ var pessoa = {
    nome,
    anoNascimento,
    idade,
-   toS() {return `${nome} = ${idade()}`;}
+   toString() {return `${nome} = ${idade()}`;}
 };
-console.log(pessoa.toS());
+console.log(pessoa.toString());
