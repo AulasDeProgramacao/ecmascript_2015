@@ -15,12 +15,13 @@ A imagem a seguir mostra o mapa mental do planejamento do curso, mas ainda é po
 
 As aulas serão liberadas semanalmente e até agora temos as seguintes aulas:
 
-1. [ECMAScript 2015 (ES6) - Trailer](https://www.youtube.com/watch?v=vcoMWWVZS7c)
-2. [ECMAScript 2015 (ES6) - Aula 01: Introdução](https://www.youtube.com/watch?v=oAxiXsCXbhU)
-3. [ECMAScript 2015 (ES6) - Aula 02: Configuração](https://www.youtube.com/watch?v=0xQj4-6uado)
-4. [ECMAScript 2015 (ES6) - Aula 03: Let e Const](https://www.youtube.com/watch?v=noJ2G56b7rs)
-5. [ECMAScript 2015 (ES6) - Aula 04: Let e Const (Parte 2)](https://www.youtube.com/watch?v=ewbkvH3cGaw)
-6. [ECMAScript 2015 (ES6) - Aula 05: Template Strings](https://www.youtube.com/watch?v=zrYbmLsXpRM)
+- [ECMAScript 2015 (ES6) - Trailer](https://www.youtube.com/watch?v=vcoMWWVZS7c)
+- [ECMAScript 2015 (ES6) - Aula 01: Introdução](https://www.youtube.com/watch?v=oAxiXsCXbhU)
+- [ECMAScript 2015 (ES6) - Aula 02: Configuração](https://www.youtube.com/watch?v=0xQj4-6uado)
+- [ECMAScript 2015 (ES6) - Aula 03: Let e Const](https://www.youtube.com/watch?v=noJ2G56b7rs)
+- [ECMAScript 2015 (ES6) - Aula 04: Let e Const (Parte 2)](https://www.youtube.com/watch?v=ewbkvH3cGaw)
+- [ECMAScript 2015 (ES6) - Aula 05: Template Strings](https://www.youtube.com/watch?v=zrYbmLsXpRM)
+- [ECMAScript 2015 (ES6) - Aula 06: Destructuring](https://www.youtube.com/watch?v=9SKm-kGX4jM)
 
 ## Alguns links
 
