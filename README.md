@@ -30,3 +30,8 @@ As aulas serão liberadas semanalmente e até agora temos as seguintes aulas:
 - [Sublime](https://www.sublimetext.com/)
 - [Babel (Não é utilizado por padrão)](https://babeljs.io/)
 - [Tabela de Compatibilidade ES6](https://kangax.github.io/compat-table/es6/)
+
+## Aulas de Programação
+- [Facebook - /aulaprogramacao](https://www.facebook.com/aulaprogramacao)
+- [GitHub - /AulasDeProgramacao](https://github.com/AulasDeProgramacao)
+- [Twitter - @aulaprogramacao](https://twitter.com/aulaprogramacao)
