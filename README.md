@@ -22,6 +22,8 @@ As aulas serão liberadas semanalmente e até agora temos as seguintes aulas:
 - [ECMAScript 2015 (ES6) - Aula 04: Let e Const (Parte 2)](https://www.youtube.com/watch?v=ewbkvH3cGaw)
 - [ECMAScript 2015 (ES6) - Aula 05: Template Strings](https://www.youtube.com/watch?v=zrYbmLsXpRM)
 - [ECMAScript 2015 (ES6) - Aula 06: Destructuring](https://www.youtube.com/watch?v=9SKm-kGX4jM)
+- [ECMAScript 2015 (ES6) - Aula 07: Notação de Objeto](https://www.youtube.com/watch?v=tZQwnNdXDfg)
+- [ECMAScript 2015 (ES6) - Aula 07: Notação de Objeto (Errata)](https://www.youtube.com/watch?v=zbfKtBoiHlw)
 
 ## Alguns links
 
