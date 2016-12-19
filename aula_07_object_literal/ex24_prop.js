@@ -5,5 +5,6 @@ var sequence = {
 }
 
 console.log(sequence.id, sequence.id);
+//aqui chama o metodo set.
 sequence.id = 100;
 console.log(sequence.id, sequence.id);
