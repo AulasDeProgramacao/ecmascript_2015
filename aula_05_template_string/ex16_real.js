@@ -1,16 +1,16 @@
 function real(strings, ...values) {
-	//console.log(strings);
+	console.log(values);
+   console.log(strings);
 
    const resultado = [];
 
    values.forEach(function(value, index) {
-   	//console.log(value, index);
-      
-      value = (typeof value == 'number')
-         ? `R$${value.toFixed(2)}` : value;
+   	//console.log( value);
+      value = (typeof value == 'number') ? `R$${value.toFixed(2)}` : value;
+
       resultado.push(strings[index], value);
 
-      //console.log(resultado);
+      console.log(resultado);
    });
 
    return resultado.join('');

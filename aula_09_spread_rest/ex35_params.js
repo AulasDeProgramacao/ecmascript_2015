@@ -1,3 +1,7 @@
+/*
+	Aqui ...notas cria um array de todos os parametros.
+*/
+
 function media(...notas) {
    var total = notas.reduce((soma, nota) => soma + nota);
    return total / notas.length;
