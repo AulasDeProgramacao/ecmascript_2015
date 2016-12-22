@@ -1,7 +1,7 @@
 var sequence = {
    __id: 1,
-   get id() { 
-   	return this.__id++; 
+   get id() {
+   	return this.__id++;
    },
    set id(id) { this.__id = id; }
 }
@@ -10,4 +10,5 @@ console.log(sequence.id, sequence.id);
 
 //aqui chama o metodo set.
 sequence.id = 100;
+
 console.log(sequence.id, sequence.id);

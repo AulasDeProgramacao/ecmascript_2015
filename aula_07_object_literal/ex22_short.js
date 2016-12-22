@@ -22,7 +22,7 @@ var pessoa = {
    toString (){return `${this.nome} = ${this.idade()}`;}
 };
 
-/*	
+/*
 	pessoa.nome = 'jairo'
 	pessoa.anoNascimento = 1986
 

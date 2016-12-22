@@ -1,9 +1,10 @@
 var pai = {
-   func() { return 'Pai'; }
+   func() { return 'Pai'; },
+   nome: 'jairo'
 }
 
 var filho = {
-   func() { return `${super.func()} + filho`; }
+   func() { return `${super.func()} + filho do ${super.nome}` }
 }
 
 //Se não fizer isso super terá problemas
