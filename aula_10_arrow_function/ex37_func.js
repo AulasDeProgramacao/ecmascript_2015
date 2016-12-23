@@ -6,6 +6,6 @@ const func = function(){
 }
 func();
 
-const arrowfunc = () => 
+const arrowfunc = () =>
 	console.log(this, this === module.exports);
 arrowfunc();
