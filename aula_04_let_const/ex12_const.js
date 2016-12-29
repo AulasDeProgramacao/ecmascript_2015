@@ -5,4 +5,4 @@ const produto = {
 produto.nome = 'Notebook';
 console.log(produto.nome);
 
-produto = {};
+//produto = {};

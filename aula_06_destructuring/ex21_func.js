@@ -7,4 +7,4 @@ console.log(rand([50, 40]));
 console.log(rand([992]));
 console.log(rand([,10]));
 console.log(rand([]));
-console.log(rand()); // TypeError: Cannot match against 'undefined' or 'null'.
+//console.log(rand()); // TypeError: Cannot match against 'undefined' or 'null'.
