@@ -15,15 +15,19 @@ A imagem a seguir mostra o mapa mental do planejamento do curso, mas ainda é po
 
 As aulas serão liberadas semanalmente e até agora temos as seguintes aulas:
 
-- [ECMAScript 2015 (ES6) - Trailer](https://www.youtube.com/watch?v=vcoMWWVZS7c)
-- [ECMAScript 2015 (ES6) - Aula 01: Introdução](https://www.youtube.com/watch?v=oAxiXsCXbhU)
-- [ECMAScript 2015 (ES6) - Aula 02: Configuração](https://www.youtube.com/watch?v=0xQj4-6uado)
-- [ECMAScript 2015 (ES6) - Aula 03: Let e Const](https://www.youtube.com/watch?v=noJ2G56b7rs)
-- [ECMAScript 2015 (ES6) - Aula 04: Let e Const (Parte 2)](https://www.youtube.com/watch?v=ewbkvH3cGaw)
-- [ECMAScript 2015 (ES6) - Aula 05: Template Strings](https://www.youtube.com/watch?v=zrYbmLsXpRM)
-- [ECMAScript 2015 (ES6) - Aula 06: Destructuring](https://www.youtube.com/watch?v=9SKm-kGX4jM)
-- [ECMAScript 2015 (ES6) - Aula 07: Notação de Objeto](https://www.youtube.com/watch?v=tZQwnNdXDfg)
-- [ECMAScript 2015 (ES6) - Aula 07: Notação de Objeto (Errata)](https://www.youtube.com/watch?v=zbfKtBoiHlw)
+- [ECMAScript 2015 (ES6) - Trailer](https://www.cod3r.com.br/portal/courses/ecmascript-2015-12)
+- [ECMAScript 2015 (ES6) - Aula 01: Introdução](https://www.cod3r.com.br/#/courses/12/186/11)
+- [ECMAScript 2015 (ES6) - Aula 02: Configuração](https://www.cod3r.com.br/#/courses/12/187/734)
+- [ECMAScript 2015 (ES6) - Aula 03: Let e Const](https://www.cod3r.com.br/#/courses/12/188/988)
+- [ECMAScript 2015 (ES6) - Aula 04: Let e Const (Parte 2)](https://www.cod3r.com.br/#/courses/12/189/0)
+- [ECMAScript 2015 (ES6) - Aula 05: Template Strings](https://www.cod3r.com.br/#/courses/12/190/0)
+- [ECMAScript 2015 (ES6) - Aula 06: Destructuring](https://www.cod3r.com.br/#/courses/12/191/0)
+- [ECMAScript 2015 (ES6) - Aula 07: Notação de Objeto](https://www.cod3r.com.br/#/courses/12/192/0)
+- [ECMAScript 2015 (ES6) - Aula 08: Notação de Objeto (Errata)](https://www.cod3r.com.br/#/courses/12/205/0)
+- [ECMAScript 2015 (ES6) - Aula 09: Parâmetro Padrão](https://www.cod3r.com.br/#/courses/12/193/0)
+- [ECMAScript 2015 (ES6) - Aula 10: Operador Spread/Rest](https://www.cod3r.com.br/#/courses/12/194/0)
+- [ECMAScript 2015 (ES6) - Aula 11: Arrow Function (Parte 1)](https://www.cod3r.com.br/#/courses/12/204/0)
+- [ECMAScript 2015 (ES6) - Aula 12: Arrow Function (Parte 2)](https://www.cod3r.com.br/#/courses/12/336/0)
 
 ## Alguns links
 
